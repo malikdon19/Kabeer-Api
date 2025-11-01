@@ -49,7 +49,7 @@ module.exports = async (req, res) => {
 
   const headers = {
     "User-Agent":
-      "Mozilla/5.0 (Linux; Android 14; V2040 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36",
+      "Mozilla/5.0 (Linux; Android 13; V2040 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36",
     Accept: "application/json, text/javascript, */*; q=0.01",
     "X-Requested-With": "XMLHttpRequest",
     "Accept-Encoding": "gzip, deflate",
